@@ -32,8 +32,7 @@
 
 打开Visual Studio 2019后，点击创建新项目，创建新的C++项目
 
-![](https://gitee.com/miraitowax/typora/raw/master/Images/202208281840659.png)
-
+![](https://gitee.com/miraitowax/typora/raw/master/Images/202208281848418.png)
 
 创建项目，填写项目名称，选择项目路径
 
