@@ -32,22 +32,21 @@
 
 打开Visual Studio 2019后，点击创建新项目，创建新的C++项目
 
-![在这里插入图片描述](picture/741d5f763aa348b8bb50148ef1f5ad4f.png)
+![](https://gitee.com/miraitowax/typora/raw/master/Images/202208281840659.png)
 
 
 创建项目，填写项目名称，选择项目路径
 
-![在这里插入图片描述](picture/5e8756e8979d4d8bb82f885413039614.png)
 
+![在这里插入图片描述](https://gitee.com/miraitowax/typora/raw/master/Images/202208281840938.png)
 
-![在这里插入图片描述](picture/ed4b9b7d41fc46478b0c53ebb2a2986c.png)
-
+![在这里插入图片描述](https://gitee.com/miraitowax/typora/raw/master/Images/202208281841219.png)
 
 ### 2.2 添加文件
 
 添加源文件，右击源文件添加
 
-![在这里插入图片描述](picture/ff291147a3de442996abc298f6a32469.png)
+![在这里插入图片描述](https://gitee.com/miraitowax/typora/raw/master/Images/202208281841641.png)
 
 
 命名，文件添加完成
@@ -57,7 +56,7 @@
 
 完成后，效果如图：
 
-![在这里插入图片描述](picture/c282d06cdf104ad7bb5f5576d4cb292a.png)
+![在这里插入图片描述](https://gitee.com/miraitowax/typora/raw/master/Images/202208281841715.png)
 
 
 项目创建完成
@@ -778,28 +777,26 @@ Visual Studio是我们常用的集成开发环境。每当我们要运行我们�
 
 ### 12.1 设置解决方案配置为Release
 
-![在这里插入图片描述](picture/288773fd5bd743a6ab045f54e7b60f6e.png)
+![在这里插入图片描述](https://gitee.com/miraitowax/typora/raw/master/Images/202208281842046.png)
 
 
 ### 12.2 修改项目运行库为多线程(/MT)
 
-![在这里插入图片描述](picture/2a2d36bbe55242a28bfaa211fdb33d6f.png)
+![在这里插入图片描述](https://gitee.com/miraitowax/typora/raw/master/Images/202208281842828.png)
 
 
-![在这里插入图片描述](picture/da64bcee07f84f34b6b19330be53e44d.png)
+![在这里插入图片描述](https://gitee.com/miraitowax/typora/raw/master/Images/202208281842903.png)
 
 
 #### 12.2.1 修改生成的可执行文件的名字
 
-![在这里插入图片描述](picture/2457298a191941459757bfda734c113c.png)
-
-
+![在这里插入图片描述](https://gitee.com/miraitowax/typora/raw/master/Images/202208281843745.png)
 
 默认为`$(ProjectName)`。如图修改为`通讯录管理系统demo`，修改之后重新生成解决方案即可
 
 ### 12.3 重新生成解决方案
 
-![在这里插入图片描述](picture/8809ff13a15b478ab2e4aa75a618c42c.png)
+![在这里插入图片描述](https://gitee.com/miraitowax/typora/raw/master/Images/202208281843321.png)
 
 
 之后就会在项目文件目录中多出`Release`文件夹，里面的exe文件就是可执行文件
